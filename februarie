@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title> 
+    <style> 
+        .red {
+            color: brown;
+        }
+        .diva {
+            display: flex;
+            flex-direction: row;
+        }
+    </style>
+
+</head>
+
+<body>
+    <h1>Examen</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Pheasant.jpg" alt="Imaginea reprezintă un fazan" srcset="">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/American_flamingo_%28Phoenicopterus_ruber%29.JPG" alt="Imaginea reprezintă o pasare a paradisului">
+    <p class="color: red;"> Ceva rosu </p>
+    <p class="red" > Ceva total </p>
+
+
+    </div class="container">
+        </div class="shorty" id="primul"
+            <p>Cine trece maine are... hahahhaha</p>
+        <div>
+        <div class="shorty diva"> 
+            <p>ceva</p>
+        </div>
+    <div>
+
+
+</body>
+</html>
